@@ -8,8 +8,6 @@
 
 hsh778205, $Vanilla\_chan$ ,Formerly an OIer.
 
-开始学习C#，想要学习WPF
-
 Started learning C# and want to learn WPF
 
 🌱 I’m currently learning C# & WPF
