@@ -6,7 +6,7 @@
 
 
 
-hsh778205, $Vanilla\_chan$ ,Formerly an OIer.
+hsh778205, Vanilla_chan ,Formerly an OIer.
 
 Started learning C# and want to learn WPF
 
